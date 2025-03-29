@@ -10,6 +10,6 @@ the logic behind the launcher is a followes, a small nested program inside the l
 
 if the version file is lower on the drive the launcher will give back an error (i plan to add a protocal that calls a separate txt file in the drive that checks the error and gives it a comand.)
 
-#the dev launcher
+# the dev launcher
 
 this version works the same as the drive one but instead of trying to pull a build and version from a external source you have to plug in the game version manualy, this version will be designed for game devs who are testing there packaged games, thats it there is nothing fancy this is probs the first one ill make as it will be used for my project.
